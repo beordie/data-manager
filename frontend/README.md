@@ -1,13 +1,13 @@
 # Before starting you must start the backend and mock-oauth-server
 
-# tipdm-webapp
+# webapp
 
-> rebuilder tipdm-webapp structure project 
+> rebuilder webapp structure project 
 
 ## Build Setup
 
 ``` bash
-# install dependencies
+# install dependencies, if install happend any error like CERT_HAS_EXPIRED, you can exec cmd like `npm config set registry https://registry.npmmirror.com` to update server proxy
 npm install
 
 # serve with hot reload at localhost:8089
