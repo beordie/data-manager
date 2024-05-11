@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PyConnectionPool>
+    <PyConfiguration>
+        <!-- 可配置多个PyServer -->
+        <PyServer host="127.0.0.1" sshuser="root" sshpwd="Admin@" sshport="22"/>
+    </PyConfiguration>
+</PyConnectionPool>
