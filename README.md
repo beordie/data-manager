@@ -30,3 +30,5 @@ When you run the app, you need to configure the service in `D:\work\data\data-ma
 npm run dev
 ```
 
+## 2. deploy oauth
+the `mock-oauth-server` is a mock oauth server, you can use it to deploy the oauth service. before you run the mock oauth server, you need a redis server and fill in application.yaml in the mock-oauth-server.
